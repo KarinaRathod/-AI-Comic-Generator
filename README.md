@@ -94,8 +94,6 @@ streamlit run app.py
 
 ---
 
----
-
 ## 🚀 Future Improvements
 
 * 📕 Comic grid layout (real comic pages)
